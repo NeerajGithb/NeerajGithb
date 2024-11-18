@@ -66,17 +66,18 @@
 
 ### 🚀 **My GitHub Projects:**
 
-- [**Twitter (X) Clone**](https://x-n.vercel.app)  
-  A clone of Twitter built with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**. Users can post, comment, and interact with tweets.
-
-- [**Netflix Clone**](https://netflix-n.vercel.app)  
-  A Netflix-like platform built with **HTML**, **CSS**, and **JavaScript** where users can browse movies, TV shows, and create a watchlist.
-
-- [**Amazon Clone**](https://amazon-n.vercel.app)  
-  An e-commerce platform where users can browse products, make secure payments, and track orders. Built with **HTML**, **CSS**, and **JavaScript**.
-
 - [**URL Shortener**](https://quick-n.vercel.app)  
   A **full-stack** project built with **Next.js**, **React**, **Node.js**, **MongoDB**, and **Tailwind CSS** where users can shorten long URLs and manage them.
+
+- [**Twitter (X) Clone**](https://x-n.vercel.app)  
+  A clone of Twitter built with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS**. Users can see post, comment, and interact with tweets.
+
+- [**Netflix Clone**](https://netflix-n.vercel.app)  
+  A Netflix-like platform built with **HTML**, **CSS**, and **JavaScript** where users can browse movies, TV shows.
+
+- [**Amazon Clone**](https://amazon-n.vercel.app)  
+  An e-commerce platform where users can browse products. Built with **HTML**, **CSS**, and **JavaScript**.
+
 
 ---
 
