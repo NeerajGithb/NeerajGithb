@@ -84,9 +84,8 @@
 ### 🌱 **Learning and Exploring:**
 
 - Exploring **AI/ML** for web applications.
-- Diving deeper into **TypeScript** for safer and more scalable code.
-- Experimenting with **GraphQL** and its real-world applications.
-- Exploring **Web 3.0** and **Blockchain** technologies.
+- Diving deeper into **Java Script** for more scalable code.
+
 
 ---
 
