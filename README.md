@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/neerajgithb" target="_blank"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/neerajvishwakarma/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="[https://www.linkedin.com/in/neerajvishwakarma/](https://www.linkedin.com/in/neeraj-vishwakarma-b87592281/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:neeraj@example.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
