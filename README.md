@@ -83,44 +83,6 @@
 
 ---
 
-### 🛠️ **Tech Stack:**
-
-**For Projects like URL Shortener & Others:**
-- ⚡ **Next.js**
-- 📦 **MongoDB**
-- ☁️ **Cloudinary**
-- 🎨 **Tailwind CSS**
-- 🔧 **Node.js & Express.js**
-- 🔐 **JWT Authentication**
-
-**For Projects like Facebook Clone & Music App:**
-- ⚡ **HTML**
-- 🎨 **CSS**
-- 🛠️ **JavaScript**
-
----
-
-### ✨ **Key Features:**
-
-**Music App:**
-- 🎶 Play & pause songs smoothly
-- 📱 Fully responsive for all devices
-- 🎨 Beautiful UI with custom animations
-
-**Facebook Clone:**
-- 🔵 Real-time interaction like a Facebook feed
-- 👍 Like, comment, and share posts
-- 🌍 Social media experience built with basic tools
-
----
-
-### 🌱 **Learning and Exploring:**
-
-- Exploring **AI/ML** for web applications.
-- Diving deeper into **JavaScript** for more scalable code.
-
----
-
 ### 🤝 **Let's Collaborate!**
 
 I am always looking for exciting opportunities to collaborate on innovative projects. If you have a project in mind or need assistance in building your dream application, feel free to connect with me!
