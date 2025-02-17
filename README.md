@@ -76,7 +76,7 @@
   An e-commerce platform where users can browse products. Built with **HTML**, **CSS**, and **JavaScript**.
 
 - [**Facebook Clone**](https://facebook-n.vercel.app)  
-  A Facebook-like platform built with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS** where users can interact, post, and like.
+  A Facebook-like platform built with **Next.js**, **MongoDB**, **Cloudinary**, **Tailwind CSS**, **Node.js**, **Express.js**, and **JWT Authentication**. Users can interact, post, and like just like on Facebook.
 
 - [**Music Web App**](https://music-n.vercel.app)  
   A music player app built with **HTML**, **CSS**, and **JavaScript** that allows users to play, pause, and enjoy music with a fully responsive design and smooth user interface.
