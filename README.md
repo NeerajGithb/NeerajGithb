@@ -1,5 +1,5 @@
 # ✨ Hi 👋, I'm **Neeraj Vishwakarma**  
-## A Passionate Full-Stack Developer from India
+## A Passionate Software Engineer 
 
 ---
 
