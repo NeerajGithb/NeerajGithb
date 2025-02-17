@@ -1,5 +1,5 @@
-# ✨ Hi 👋, I'm **Neeraj Vishwakarma**  
-## A Passionate Software Engineer 
+✨ Hi 👋, I'm **Neeraj Vishwakarma**  
+## A Passionate Software Engineer
 
 ---
 
@@ -57,9 +57,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/>
-  </a>
 </p>
 
 ---
@@ -78,14 +75,49 @@
 - [**Amazon Clone**](https://amazon-n.vercel.app)  
   An e-commerce platform where users can browse products. Built with **HTML**, **CSS**, and **JavaScript**.
 
+- [**Facebook Clone**](https://facebook-n.vercel.app)  
+  A Facebook-like platform built with **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS** where users can interact, post, and like.
+
+- [**Music Web App**](https://music-n.vercel.app)  
+  A music player app built with **HTML**, **CSS**, and **JavaScript** that allows users to play, pause, and enjoy music with a fully responsive design and smooth user interface.
+
+---
+
+### 🛠️ **Tech Stack:**
+
+**For Projects like URL Shortener & Others:**
+- ⚡ **Next.js**
+- 📦 **MongoDB**
+- ☁️ **Cloudinary**
+- 🎨 **Tailwind CSS**
+- 🔧 **Node.js & Express.js**
+- 🔐 **JWT Authentication**
+
+**For Projects like Facebook Clone & Music App:**
+- ⚡ **HTML**
+- 🎨 **CSS**
+- 🛠️ **JavaScript**
+
+---
+
+### ✨ **Key Features:**
+
+**Music App:**
+- 🎶 Play & pause songs smoothly
+- 📱 Fully responsive for all devices
+- 🎨 Beautiful UI with custom animations
+
+**Facebook Clone:**
+- 🔵 Real-time interaction like a Facebook feed
+- 👍 Like, comment, and share posts
+- 🌍 Social media experience built with basic tools
 
 ---
 
 ### 🌱 **Learning and Exploring:**
 
 - Exploring **AI/ML** for web applications.
-- Diving deeper into **Java Script** for more scalable code.
-
+- Diving deeper into **JavaScript** for more scalable code.
 
 ---
 
