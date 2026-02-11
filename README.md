@@ -1,11 +1,11 @@
-✨ Hi 👋, I'm Neeraj Vishwakarma  
-**Software Engineer**
+✨ Hi 👋, I'm Neeraj Vishwakarma
 
 ### 📊 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeerajGithb&show_icons=true&hide_border=true&theme=github_dark" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeerajGithb&layout=compact&hide_border=true&theme=github_dark" height="150"/>
-</p>
+
+![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeerajGithb&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeerajGithb&layout=compact&theme=github_dark)
+
 
 ### 🌐 Connect with me
 <p align="center">
