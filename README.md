@@ -32,7 +32,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,cloudflare,figma&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel" />
 </p>
 
 **Languages:** JavaScript, TypeScript, C++, HTML, CSS  
