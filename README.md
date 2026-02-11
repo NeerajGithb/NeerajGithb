@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Vishwakarma</h1>
-<h3 align="center">Software Engineer | Full-Stack Web Applications </h3>
+<h3 align="center">Software Engineer | Full-Stack Web Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NeerajGithb&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -9,24 +9,20 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Building scalable full-stack applications with **Next.js, React, Node.js & MongoDB**
-- 🌱 Currently exploring **TypeScript, System Design & Cloud Architecture**
-- 💼 Open to collaborating on **MERN stack projects & open-source contributions**
-- 📫 Reach me at **neerajvishwakarma726689@gmail.com**
-- ⚡ Fun fact: I turn coffee into code ☕
+- 💻 Software Engineer focused on full-stack web development
+- ⚙️ Building projects using Next.js, Node.js, TypeScript & MongoDB
+- 🧩 Experienced in APIs, authentication, payments, and deployment through personal projects
+- 🚀 Interested in system design and building scalable applications
+- 📫 neerajvishwakarma726689@gmail.com
 
----
 
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/NeerajGithb" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <a href="https://www.linkedin.com/in/neerajv07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:neerajv07@example.com" target="_blank">
+  <a href="mailto:neerajvishwakarma726689@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -62,7 +58,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🛋️ [Furniture E-Commerce Platform](https://github.com/NeerajGithb/furniture-ecommerce)
+#### 🛋️ [Furniture E-Commerce Platform](https://github.com/NeerajGithb/v-furniture-client)
 Production-ready full-stack e-commerce application with secure authentication, payment integration, and admin dashboard.
 
 **Tech Stack:** Next.js, Node.js, MongoDB, Razorpay, Cloudinary, JWT  
@@ -70,8 +66,8 @@ Production-ready full-stack e-commerce application with secure authentication, p
 
 ---
 
-#### 📱 [Social Media Platform](https://github.com/NeerajGithb/social-platform)
-Facebook-inspired social networking application with real-time interactions and media sharing.
+#### 📱 [Social Media Platform](https://github.com/NeerajGithb/facebook)
+Facebook-cloned application with real-time interactions and media sharing.
 
 **Tech Stack:** Next.js, Node.js, MongoDB, Cloudinary, JWT  
 **Features:** User profiles, posts, likes, comments, media uploads, authentication
@@ -86,26 +82,8 @@ Fast and efficient URL shortening service with analytics tracking.
 
 ---
 
-#### 🎵 [Music Player Web App](https://github.com/NeerajGithb/music-player)
+#### 🎵 [Music Player Web App](https://github.com/NeerajGithb/music-web)
 Responsive music streaming application with custom controls and playlist management.
 
 **Tech Stack:** HTML, CSS, JavaScript  
 **Features:** Audio playback, playlist creation, responsive design
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NeerajGithb&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NeerajGithb&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
