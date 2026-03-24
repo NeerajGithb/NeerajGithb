@@ -9,44 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 💻 **Full-Stack Developer** specializing in Next.js, Node.js, and TypeScript.
-- ⚙️ **End-to-End Build:** Experience building and deploying full-stack applications from UI to backend and database.
-- 🧩 **Real-World Features:** Handled system design, REST APIs, secure authentication, and payment integrations.
-- 🚀 **Final Year Student:** Passionate about building scalable web applications and modern software architecture.
-- 📫 **Email:** neerajvishwakarma726689@gmail.com
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel,postman" />
-</p>
-
-**Languages:** JavaScript, TypeScript, C++, HTML, CSS  
-**Frontend:** React, Next.js, Tailwind CSS, Redux  
-**Backend:** Node.js, Express.js, RESTful APIs  
-**Database:** MongoDB, Mongoose  
-**Tools:** Git, GitHub, Vercel, Cloudinary, Postman
-
----
-
-### 🚀 Featured Projects
-
-#### 🛋️ [Furniture E-Commerce Platform](https://github.com/NeerajGithb/v-furniture-client)
-A production-ready full-stack platform featuring a custom admin dashboard and end-to-end shopping flow.
-- **Key Features:** Secure JWT Authentication, Razorpay Payment Integration, Cloudinary Image Management, and Order Tracking.
-- **Tech:** Next.js, Node.js, MongoDB, Tailwind CSS.
-
-#### 📱 [Social Media Platform](https://github.com/NeerajGithb/facebook)
-Full-stack social application focused on real-time interactions and media sharing.
-- **Key Features:** User profiles, post interactions (likes/comments), and secure media uploads.
-- **Tech:** Next.js, Node.js, MongoDB, Cloudinary.
-
-#### 🔗 https://zapier.com/blog/best-url-shorteners/(https://github.com/NeerajGithb/url-shortener)
-Efficient service for generating short links with built-in analytics.
-- **Key Features:** Custom short URLs, click tracking, and QR code generation.
-- **Tech:** Next.js, MongoDB.
+- Full-Stack Developer working with Next.js, Node.js, and TypeScript  
+- Build and deploy end-to-end applications (system design, frontend, backend, database, authentication)  
+- Hands-on experience with APIs, authentication, and real-world features through projects  
+- Learning and improving system design and application architecture  
+- 📫 neerajvishwakarma726689@gmail.com  
 
 ---
 
@@ -61,6 +28,58 @@ Efficient service for generating short links with built-in analytics.
   </a>
 </p>
 
+---
+
+### 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajGithb&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel" />
 </p>
+
+**Languages:** JavaScript, TypeScript, C++, HTML, CSS  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs  
+**Database:** MongoDB  
+**Tools:** Git, GitHub, Vercel, Postman  
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeerajGithb&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🚀 Projects
+
+#### 🛋️ Furniture E-Commerce Platform
+Full-stack e-commerce app with authentication and admin features  
+
+**Tech:** Next.js, Node.js, MongoDB, Razorpay  
+**Features:** Auth, products, cart, orders  
+
+---
+
+#### 📱 Social Media Platform
+Basic social media app with posts and interactions  
+
+**Tech:** Next.js, Node.js, MongoDB  
+**Features:** Posts, likes, comments, auth  
+
+---
+
+#### 🔗 URL Shortener
+URL shortening service with tracking  
+
+**Tech:** Next.js, MongoDB  
+**Features:** Short links, analytics  
+
+---
+
+#### 🎵 Music Player
+Simple music web app  
+
+**Tech:** HTML, CSS, JavaScript  
+**Features:** Audio player, playlists  
